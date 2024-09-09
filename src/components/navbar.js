@@ -18,7 +18,7 @@ const navbar = () => {
     <nav className='p-4 bg-background/50 sticky top-0 backdrop-blur border-b z-10'>
 
         <div className='container mx-auto flex justify-between items-center'>
-            <Link href={"/"}>
+            <Link href="/">
                 <div className='text-2xl font-bold'>
                     Suggestion.
                 </div>
